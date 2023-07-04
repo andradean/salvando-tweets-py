@@ -1,5 +1,4 @@
 import tweepy as tw
-import pandas as pd
 import time
 import sqlite3
 
